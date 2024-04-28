@@ -1,6 +1,6 @@
 # Pokémon Map Builder
 
-Credit to Peter Baile Chen and Ian Sibner
+Download necessary node modules if needed
 
 ## Development
 
